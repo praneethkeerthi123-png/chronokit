@@ -27,6 +27,14 @@
     "esm"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praneethkeerthi123-png/chronokit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/praneethkeerthi123-png/chronokit/issues"
+  },
+  "homepage": "https://github.com/praneethkeerthi123-png/chronokit#readme",
   "engines": {
     "node": ">=18.18.0"
   }
