@@ -1,0 +1,33 @@
+{
+  "name": "chronokit-js",
+  "version": "1.0.0",
+  "description": "Reliable ES module date and time utilities with strict parsing and no dependencies.",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test",
+    "example:basic": "node examples/basic.js",
+    "example:advanced": "node examples/advanced.js"
+  },
+  "keywords": [
+    "date",
+    "time",
+    "calendar",
+    "timezone",
+    "business-days",
+    "utility",
+    "esm"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.18.0"
+  }
+}
